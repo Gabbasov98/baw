@@ -1,0 +1,25 @@
+<svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4010_560)">
+<path d="M-1 1.04688C-0.0152987 3.36863 2.29453 4.99821 4.98677 4.99821C7.67901 4.99821 9.98883 3.36863 10.974 1.04688" stroke="#FEFDF6" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M11 1.04297C11.9852 3.36472 14.295 4.99431 16.9872 4.99431C19.6795 4.99431 21.9893 3.36517 22.9744 1.04297" stroke="#FEFDF6" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M23.0234 1.00781C24.0086 3.32957 26.3184 4.95915 29.0107 4.95915C31.7029 4.95915 34.0127 3.32957 34.9974 1.00781" stroke="#FEFDF6" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M35.0234 1C36.0086 3.32175 38.3184 4.95134 41.0107 4.95134C43.7029 4.95134 46.0123 3.32175 46.9974 1" stroke="#FEFDF6" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M-1 9.64844C-0.0152987 11.9702 2.29453 13.5998 4.98677 13.5998C7.67901 13.5998 9.98883 11.9702 10.974 9.64844" stroke="#FEFDF6" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M11 9.64453C11.9852 11.9663 14.295 13.5959 16.9872 13.5959C19.6795 13.5959 21.9893 11.9667 22.9744 9.64453" stroke="#FEFDF6" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M23.0234 9.60938C24.0086 11.9311 26.3184 13.5607 29.0107 13.5607C31.7029 13.5607 34.0127 11.9311 34.9974 9.60938" stroke="#FEFDF6" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M35.0234 9.60156C36.0086 11.9233 38.3184 13.5529 41.0107 13.5529C43.7029 13.5529 46.0123 11.9233 46.9974 9.60156" stroke="#FEFDF6" stroke-width="2" stroke-miterlimit="10"/>
+<path d="M-2 45L47 45" stroke="#FEFDF6" stroke-width="2"/>
+<path d="M5 20H-2" stroke="#FEFDF6" stroke-width="2"/>
+<path d="M48 20H41" stroke="#FEFDF6" stroke-width="2"/>
+<path d="M5 37H-2" stroke="#FEFDF6" stroke-width="2"/>
+<path d="M48 37H41" stroke="#FEFDF6" stroke-width="2"/>
+<path d="M5 28H-1" stroke="#FEFDF6" stroke-width="2"/>
+<path d="M47 28H41" stroke="#FEFDF6" stroke-width="2"/>
+<path d="M22.2929 39.7071C22.6834 40.0976 23.3166 40.0976 23.7071 39.7071L30.0711 33.3431C30.4616 32.9526 30.4616 32.3195 30.0711 31.9289C29.6805 31.5384 29.0474 31.5384 28.6569 31.9289L23 37.5858L17.3431 31.9289C16.9526 31.5384 16.3195 31.5384 15.9289 31.9289C15.5384 32.3195 15.5384 32.9526 15.9289 33.3431L22.2929 39.7071ZM23 19L22 19L22 39L23 39L24 39L24 19L23 19Z" fill="#FEFDF6"/>
+</g>
+<defs>
+<clipPath id="clip0_4010_560">
+<rect width="46" height="46" fill="white"/>
+</clipPath>
+</defs>
+</svg>
